@@ -2053,8 +2053,8 @@
 		  // Scrollbar control
 		  "scrollbar.shadow": "#222222",
 		  "scrollbarSlider.activeBackground": "#222222",
-		  "scrollbarSlider.background": "#111111",
-		  "scrollbarSlider.hoverBackground": "#222222",
+		  "scrollbarSlider.background": "#424242",
+		  "scrollbarSlider.hoverBackground": "#686868",
   
 		  // Badge
 		  "badge.foreground": "#dddddd",
